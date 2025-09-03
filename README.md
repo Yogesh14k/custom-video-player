@@ -6,7 +6,7 @@ This project demonstrates DOM manipulation, event handling, and media control fe
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project]()  
+🔗 [View Project](https://yogesh14k.github.io/custom-video-player/)  
 🔗 [GitHub Repository](https://github.com/Yogesh14k/custom-video-player)
 
 ---
