@@ -1,7 +1,7 @@
 # 🎥 Custom Video Player
 
 A custom video player built with **HTML, CSS, and JavaScript**.  
-This project demonstrates DOM manipulation, event handling, and media control features — inspired by the JavaScript30 challenge.
+This project demonstrates DOM manipulation, event handling, and media control features.
 
 ---
 
